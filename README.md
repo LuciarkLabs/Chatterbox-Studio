@@ -56,13 +56,6 @@ Includes:
 - Required dependencies
 - 30 built-in voices
 
----
-
-### Online Installer *(Coming Soon)*
-
-A lightweight installer that automatically downloads the required AI models during installation.
-
----
 
 ## Screenshots
 
